@@ -4,7 +4,7 @@ import './App.css';
 const App = () => {
     return (
         <div>
-            <h2>Let's build ToDoList App in MERN Stack</h2>
+            <h2>WELCOME TO MERN STACK WEB DEVELOPMENT</h2>
         </div>
     )
 }
